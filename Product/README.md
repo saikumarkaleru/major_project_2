@@ -32,16 +32,4 @@ DB_USER=DATABASE USER
 DB_PASS=DATABASE USER PASSWORD 
 ```
 
-Step 4: Start the API by
 
-```bash
-npm start
-```
-
-## Author
-
-- [**Truly Mittal**](https://trulymittal.com)
-
-## License
-
-This project is licensed under the MIT License.
